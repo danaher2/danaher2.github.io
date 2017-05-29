@@ -3,21 +3,19 @@
   <channel>
     <title>Alec Danaher</title>
     <description>Tech &amp;middot; Environment &amp;middot; Travel &amp;middot; Life</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 May 2017 15:26:12 -0400</pubDate>
-    <lastBuildDate>Mon, 29 May 2017 15:26:12 -0400</lastBuildDate>
+    <link>http://alecdanaher.com/</link>
+    <atom:link href="http://alecdanaher.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 29 May 2017 19:38:31 -0400</pubDate>
+    <lastBuildDate>Mon, 29 May 2017 19:38:31 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Experiments</title>
-        <description>&lt;h4 id=&quot;my-first-post&quot;&gt;My first post&lt;/h4&gt;
-
-&lt;p&gt;Here it is&lt;/p&gt;
+        <description>&lt;p&gt;Here it is&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 May 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/topics/life/</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/life/</guid>
+        <link>http://alecdanaher.com/topics/life/</link>
+        <guid isPermaLink="true">http://alecdanaher.com/topics/life/</guid>
         
         <category>featured</category>
         
